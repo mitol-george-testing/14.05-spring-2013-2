@@ -1,0 +1,29 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "84f1c8ea-ca40-29e3-7440-0fb494dcef3e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Intermediate Macroeconomics",
+  "course_description": "This course uses the tools of macroeconomics to study various macroeconomic policy problems in-depth. The problems range from economic growth in the long run, to government finances in the intermediate run, and economic stability in the short run. Many economic models used today are surveyed.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.05",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
